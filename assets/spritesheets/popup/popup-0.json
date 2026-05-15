@@ -1,0 +1,159 @@
+{
+  "frames": {
+    "popup_enter": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 1357,
+        "h": 932
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 2,
+        "w": 1357,
+        "h": 932
+      },
+      "sourceSize": {
+        "w": 1357,
+        "h": 934
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "popup_all_features": {
+      "frame": {
+        "x": 2,
+        "y": 938,
+        "w": 1357,
+        "h": 896
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1357,
+        "h": 896
+      },
+      "sourceSize": {
+        "w": 1357,
+        "h": 896
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "popup_button": {
+      "frame": {
+        "x": 2,
+        "y": 1838,
+        "w": 417,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 417,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 417,
+        "h": 81
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "popup_chest": {
+      "frame": {
+        "x": 1363,
+        "y": 2,
+        "w": 388,
+        "h": 262
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 388,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 388,
+        "h": 262
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "popup_coin_boost": {
+      "frame": {
+        "x": 1755,
+        "y": 2,
+        "w": 275,
+        "h": 222
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 275,
+        "h": 222
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 222
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "popup_coin": {
+      "frame": {
+        "x": 1363,
+        "y": 268,
+        "w": 332,
+        "h": 286
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 332,
+        "h": 286
+      },
+      "sourceSize": {
+        "w": 333,
+        "h": 286
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "https://ourcade.co",
+    "version": "1.0.0",
+    "image": "popup-0.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2048,
+      "h": 2048
+    },
+    "scale": 1
+  }
+}

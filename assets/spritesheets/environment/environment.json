@@ -1,0 +1,303 @@
+{
+  "frames": {
+    "line_mask": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 1402,
+        "h": 788
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1402,
+        "h": 788
+      },
+      "sourceSize": {
+        "w": 1402,
+        "h": 790
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "jackpot_text": {
+      "frame": {
+        "x": 1408,
+        "y": 2,
+        "w": 610,
+        "h": 168
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 2,
+        "w": 610,
+        "h": 168
+      },
+      "sourceSize": {
+        "w": 616,
+        "h": 172
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "win_strap_line": {
+      "frame": {
+        "x": 1408,
+        "y": 174,
+        "w": 603,
+        "h": 54
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 603,
+        "h": 54
+      },
+      "sourceSize": {
+        "w": 603,
+        "h": 54
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "win_strap": {
+      "frame": {
+        "x": 1408,
+        "y": 232,
+        "w": 533,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 533,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 534,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "win_strap_particle": {
+      "frame": {
+        "x": 1945,
+        "y": 232,
+        "w": 36,
+        "h": 36
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 6,
+        "w": 36,
+        "h": 36
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "info_box": {
+      "frame": {
+        "x": 1408,
+        "y": 390,
+        "w": 487,
+        "h": 498
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 487,
+        "h": 498
+      },
+      "sourceSize": {
+        "w": 489,
+        "h": 500
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "buy_button": {
+      "frame": {
+        "x": 2,
+        "y": 892,
+        "w": 433,
+        "h": 499
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 433,
+        "h": 499
+      },
+      "sourceSize": {
+        "w": 434,
+        "h": 499
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "coin_boost_text": {
+      "frame": {
+        "x": 439,
+        "y": 794,
+        "w": 692,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 2,
+        "w": 692,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 698,
+        "h": 150
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "coin_boost_icon": {
+      "frame": {
+        "x": 1135,
+        "y": 794,
+        "w": 233,
+        "h": 237
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 233,
+        "h": 237
+      },
+      "sourceSize": {
+        "w": 233,
+        "h": 237
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "reel_boost_text": {
+      "frame": {
+        "x": 439,
+        "y": 944,
+        "w": 691,
+        "h": 147
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 2,
+        "w": 691,
+        "h": 147
+      },
+      "sourceSize": {
+        "w": 698,
+        "h": 151
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "jackpot_icon": {
+      "frame": {
+        "x": 2,
+        "y": 1395,
+        "w": 233,
+        "h": 237
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 233,
+        "h": 237
+      },
+      "sourceSize": {
+        "w": 233,
+        "h": 237
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "reel_boost_icon": {
+      "frame": {
+        "x": 2,
+        "y": 1636,
+        "w": 233,
+        "h": 237
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 233,
+        "h": 237
+      },
+      "sourceSize": {
+        "w": 233,
+        "h": 237
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "https://ourcade.co",
+    "version": "1.0.0",
+    "image": "environment.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2048,
+      "h": 2048
+    },
+    "scale": 1
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "frames": {
+    "bonus_feature_glow": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 484,
+        "h": 653
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 484,
+        "h": 653
+      },
+      "sourceSize": {
+        "w": 484,
+        "h": 653
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bonus_feature_background": {
+      "frame": {
+        "x": 2,
+        "y": 659,
+        "w": 393,
+        "h": 593
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 393,
+        "h": 593
+      },
+      "sourceSize": {
+        "w": 393,
+        "h": 593
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bonus_single_feature": {
+      "frame": {
+        "x": 2,
+        "y": 1256,
+        "w": 294,
+        "h": 336
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 75,
+        "y": 0,
+        "w": 294,
+        "h": 336
+      },
+      "sourceSize": {
+        "w": 443,
+        "h": 336
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bonus_triple_feature": {
+      "frame": {
+        "x": 2,
+        "y": 1596,
+        "w": 413,
+        "h": 321
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 15,
+        "w": 413,
+        "h": 321
+      },
+      "sourceSize": {
+        "w": 443,
+        "h": 336
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bonus_buy_button": {
+      "frame": {
+        "x": 2,
+        "y": 1921,
+        "w": 470,
+        "h": 115
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 470,
+        "h": 115
+      },
+      "sourceSize": {
+        "w": 470,
+        "h": 115
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bonus_double_feature": {
+      "frame": {
+        "x": 300,
+        "y": 1256,
+        "w": 349,
+        "h": 271
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 65,
+        "w": 349,
+        "h": 271
+      },
+      "sourceSize": {
+        "w": 443,
+        "h": 336
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bonus_close_button": {
+      "frame": {
+        "x": 300,
+        "y": 1531,
+        "w": 117,
+        "h": 57
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 117,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 117,
+        "h": 57
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "https://ourcade.co",
+    "version": "1.0.0",
+    "image": "bonus.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2048,
+      "h": 2048
+    },
+    "scale": 1
+  }
+}

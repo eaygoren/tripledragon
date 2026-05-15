@@ -1,0 +1,39 @@
+{
+  "frames": {
+    "popup_exit": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 1357,
+        "h": 820
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1357,
+        "h": 820
+      },
+      "sourceSize": {
+        "w": 1357,
+        "h": 820
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "https://ourcade.co",
+    "version": "1.0.0",
+    "image": "popup-1.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2048,
+      "h": 2048
+    },
+    "scale": 1
+  }
+}
