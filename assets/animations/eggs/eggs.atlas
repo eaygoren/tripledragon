@@ -1,0 +1,169 @@
+eggs.png
+size:1652,1884
+filter:Linear,Linear
+eggtrans/1
+bounds:2,1546,370,336
+eggtrans/25
+bounds:2,1206,370,336
+eggtrans/27
+bounds:376,1546,370,336
+eggtrans/29
+bounds:2,866,370,336
+eggtrans/33
+bounds:376,1206,370,336
+eggtrans/35
+bounds:750,1546,370,336
+eggtrans/37
+bounds:2,526,370,336
+eggtrans/39
+bounds:376,866,370,336
+eggtrans/41
+bounds:750,1206,370,336
+eggtrans/43
+bounds:1124,1546,370,336
+eggtrans/45
+bounds:2,186,370,336
+eggtrans/47
+bounds:376,526,370,336
+eggtrans/49
+bounds:750,866,370,336
+eggtrans/51
+bounds:1124,1206,370,336
+eggtrans/53
+bounds:376,186,370,336
+eggtrans/55
+bounds:750,526,370,336
+eggtrans/57
+bounds:1124,866,370,336
+eggtrans/59
+bounds:750,186,370,336
+f egg a1
+bounds:1354,196,75,84
+f egg a2
+bounds:1046,93,71,89
+f egg a3
+bounds:1498,1795,75,87
+f egg b1
+bounds:1573,363,77,83
+f egg b2
+bounds:1498,1705,74,86
+f egg c1
+bounds:1200,191,71,89
+f egg c2
+bounds:1573,1528,76,82
+f egg d1
+bounds:1576,1705,74,86
+f egg d2
+bounds:1498,1615,74,86
+f egg e1
+bounds:1577,1795,73,87
+f egg e2
+bounds:1275,195,75,85
+f egg f1
+bounds:1124,191,72,89
+f egg f2
+bounds:1497,357,72,89
+f egg f3
+bounds:1498,1522,71,89
+f egg g1
+bounds:1498,1339,72,87
+f egg g2
+bounds:1498,1430,72,88
+f egg g3
+bounds:1046,2,73,87
+f egg g4
+bounds:1576,1614,73,87
+fire base back
+bounds:1124,450,462,185
+fire base front
+bounds:722,46,320,136
+g egg a1
+bounds:1498,998,71,78
+g egg a2
+bounds:1497,200,62,73
+g egg a3
+bounds:1562,278,59,75
+g egg b1
+bounds:1188,38,63,70
+g egg b2
+bounds:1563,199,61,75
+g egg c1
+bounds:1121,107,61,75
+g egg c2
+bounds:1590,1448,60,76
+g egg d1
+bounds:1590,1129,60,75
+g egg d2
+bounds:1498,918,61,76
+g egg d3
+bounds:1590,1050,60,75
+g egg e1
+bounds:1590,1368,60,76
+g egg e2
+bounds:1186,112,61,75
+g egg f1
+bounds:1123,29,61,74
+g egg f2
+bounds:1590,1288,60,76
+g egg f3
+bounds:1590,1208,60,76
+g egg g1
+bounds:1590,1208,60,76
+g egg f4
+bounds:1433,203,60,77
+g egg g2
+bounds:1433,203,60,77
+g egg f5
+bounds:1497,277,61,76
+g egg g3
+bounds:1497,277,61,76
+green base bac
+bounds:1124,284,369,162
+green base front
+bounds:379,53,339,129
+i base back
+bounds:1124,639,391,223
+i base front
+bounds:2,8,373,174
+i egg a1
+bounds:1519,771,58,69
+i egg a2
+bounds:1590,905,60,68
+i egg a3
+bounds:1498,1253,68,82
+i egg b1
+bounds:1590,977,60,69
+i egg b2
+bounds:1378,47,58,70
+i egg c1
+bounds:1498,1167,68,82
+i egg c2
+bounds:1498,1080,67,83
+i egg d1
+bounds:1255,40,58,71
+i egg d2
+bounds:1312,120,57,71
+i egg d3
+bounds:1497,129,61,67
+i egg e1
+bounds:1562,125,59,70
+i egg e2
+bounds:1373,121,58,71
+i egg e3
+bounds:1440,54,59,70
+i egg f1
+bounds:1317,45,57,71
+i egg f2
+bounds:1519,698,58,69
+i egg f3
+bounds:1566,51,58,70
+i egg g1
+bounds:1503,51,59,70
+i egg g2
+bounds:1519,844,58,70
+i egg g3
+bounds:1581,832,59,69
+i egg g4
+bounds:1435,128,58,71
+i egg g5
+bounds:1251,115,57,72

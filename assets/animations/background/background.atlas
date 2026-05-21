@@ -1,393 +1,283 @@
 background.png
-size:3700,3676
+size:3632,2656
 filter:Linear,Linear
+8 parıltı2
+bounds:3368,1920,184,193
+Base_Background_Coin
+bounds:1165,2369,1462,285
 Blue_Tongue
-bounds:129,3504,53,91
+bounds:3535,1014,53,91
 Blue_chic
-bounds:3447,3174,232,199
+bounds:1930,571,232,199
 Blue_head
-bounds:2557,2752,284,302
+bounds:1612,1193,284,302
 Blue_neck
-bounds:3197,1898,198,382
+bounds:3140,1284,198,382
 Bokeh_1 copy
-bounds:1967,2793,297,261
+bounds:1332,916,297,261
 Bokeh_2 copy
-bounds:2,165,479,402
+bounds:1981,1674,479,402
+Bonus_Background_Coin
+bounds:1165,2080,1462,285
+Crack_Gold_Base
+bounds:2,2025,1159,629
+Crack_Gold_Bonus_3x5
+bounds:2,726,851,631
+Crack_Gold_Bonus_5x5
+bounds:2,1361,889,660
 blue trans
-bounds:2898,68,286,466
+bounds:2464,1610,286,466
 blue_body
-bounds:485,3,301,480
+bounds:3063,1670,301,480
 blue_closed
-bounds:2845,2740,276,314
+bounds:1332,1181,276,314
 blue_eye
-bounds:315,3480,192,115
+bounds:2946,1155,192,115
 blue_left_hand
-bounds:2966,2294,167,380
+bounds:1161,1060,167,380
 blue_right_hand
-bounds:2620,1995,199,380
+bounds:1207,532,199,380
 bluehole
-bounds:3447,2964,170,206
+bounds:3368,1710,170,206
 breath/1
-bounds:1504,3404,261,169
+bounds:2210,1042,261,169
 breath/10
-bounds:1769,3404,261,169
+bounds:1411,382,261,169
 breath/11
-bounds:2034,3404,261,169
+bounds:1411,209,261,169
 breath/12
-bounds:2299,3404,261,169
+bounds:1402,36,261,169
 breath/13
-bounds:2564,3404,261,169
+bounds:1676,381,261,169
 breath/14
-bounds:2829,3404,261,169
+bounds:1676,208,261,169
 breath/15
-bounds:3094,3404,261,169
+bounds:1667,35,261,169
 breath/16
-bounds:3359,3377,261,169
+bounds:1941,398,261,169
 breath/17
-bounds:2,3309,261,169
+bounds:1941,225,261,169
 breath/18
-bounds:267,3303,261,169
+bounds:2210,869,261,169
 breath/19
-bounds:532,3297,261,169
+bounds:2166,696,261,169
 breath/2
-bounds:797,3251,261,169
+bounds:3340,1109,261,169
 breath/20
-bounds:1062,3251,261,169
+bounds:1941,52,261,169
 breath/21
-bounds:1327,3231,261,169
+bounds:2475,992,261,169
 breath/22
-bounds:1592,3231,261,169
+bounds:2475,819,261,169
 breath/23
-bounds:1857,3231,261,169
+bounds:2431,646,261,169
 breath/24
-bounds:2122,3231,261,169
+bounds:2740,982,261,169
 breath/25
-bounds:2387,3231,261,169
+bounds:3005,982,261,169
 breath/26
-bounds:2652,3231,261,169
+bounds:2740,809,261,169
 breath/27
-bounds:2917,3231,261,169
+bounds:3005,809,261,169
 breath/28
-bounds:3182,3204,261,169
+bounds:2696,636,261,169
 breath/29
-bounds:2,3136,261,169
+bounds:2961,636,261,169
 breath/3
-bounds:267,3130,261,169
+bounds:3270,936,261,169
 breath/30
-bounds:532,3124,261,169
+bounds:3270,763,261,169
 breath/31
-bounds:797,3078,261,169
+bounds:3226,590,261,169
 breath/32
-bounds:1062,3078,261,169
+bounds:2206,436,261,169
 breath/33
-bounds:1327,3058,261,169
+bounds:2206,263,261,169
 breath/34
-bounds:1592,3058,261,169
+bounds:2206,90,261,169
 breath/35
-bounds:1857,3058,261,169
+bounds:2471,463,261,169
 breath/36
-bounds:2122,3058,261,169
+bounds:2471,290,261,169
 breath/37
-bounds:2387,3058,261,169
+bounds:2736,463,261,169
 breath/38
-bounds:2652,3058,261,169
+bounds:2471,117,261,169
 breath/4
-bounds:2917,3058,261,169
+bounds:2736,290,261,169
 breath/5
-bounds:3182,3031,261,169
+bounds:2736,117,261,169
 breath/6
-bounds:2,2963,261,169
+bounds:3001,417,261,169
 breath/7
-bounds:267,2957,261,169
+bounds:3001,244,261,169
 breath/8
-bounds:532,2951,261,169
+bounds:3266,417,261,169
 breath/9
-bounds:797,2905,261,169
-eggtrans/1
-bounds:3299,2624,370,336
-eggtrans/10
-bounds:2,2617,370,336
-eggtrans/11
-bounds:376,2611,370,336
-eggtrans/12
-bounds:918,2527,370,336
-eggtrans/13
-bounds:1292,2474,370,336
-eggtrans/14
-bounds:1666,2453,370,336
-eggtrans/15
-bounds:2040,2433,370,336
-eggtrans/16
-bounds:2414,2412,370,336
-eggtrans/17
-bounds:3137,2284,370,336
-eggtrans/18
-bounds:2,2277,370,336
-eggtrans/19
-bounds:376,2271,370,336
-eggtrans/2
-bounds:750,2187,370,336
-eggtrans/20
-bounds:1124,2134,370,336
-eggtrans/21
-bounds:1498,2113,370,336
-eggtrans/22
-bounds:1872,2093,370,336
-eggtrans/23
-bounds:2246,2072,370,336
-eggtrans/24
-bounds:2823,1944,370,336
-eggtrans/25
-bounds:2,1937,370,336
-eggtrans/26
-bounds:376,1931,370,336
-eggtrans/27
-bounds:750,1847,370,336
-eggtrans/28
-bounds:1124,1794,370,336
-eggtrans/29
-bounds:1498,1773,370,336
-eggtrans/3
-bounds:1872,1753,370,336
-eggtrans/30
-bounds:2246,1732,370,336
-eggtrans/31
-bounds:2620,1604,370,336
-eggtrans/32
-bounds:2,1597,370,336
-eggtrans/33
-bounds:376,1591,370,336
-eggtrans/34
-bounds:2994,1558,370,336
-eggtrans/35
-bounds:750,1507,370,336
-eggtrans/36
-bounds:1124,1454,370,336
-eggtrans/37
-bounds:1498,1433,370,336
-eggtrans/38
-bounds:1872,1413,370,336
-eggtrans/39
-bounds:2246,1392,370,336
-eggtrans/4
-bounds:2620,1264,370,336
-eggtrans/40
-bounds:2,1257,370,336
-eggtrans/41
-bounds:376,1251,370,336
-eggtrans/42
-bounds:2994,1218,370,336
-eggtrans/43
-bounds:750,1167,370,336
-eggtrans/44
-bounds:1124,1114,370,336
-eggtrans/45
-bounds:1498,1093,370,336
-eggtrans/46
-bounds:1872,1073,370,336
-eggtrans/47
-bounds:2246,1052,370,336
-eggtrans/48
-bounds:2620,924,370,336
-eggtrans/49
-bounds:2,917,370,336
-eggtrans/5
-bounds:376,911,370,336
-eggtrans/50
-bounds:2994,878,370,336
-eggtrans/51
-bounds:750,827,370,336
-eggtrans/52
-bounds:1124,774,370,336
-eggtrans/53
-bounds:1498,753,370,336
-eggtrans/54
-bounds:1872,733,370,336
-eggtrans/55
-bounds:2246,712,370,336
-eggtrans/56
-bounds:2620,584,370,336
-eggtrans/57
-bounds:2,577,370,336
-eggtrans/58
-bounds:376,571,370,336
-eggtrans/59
-bounds:2994,538,370,336
-eggtrans/6
-bounds:750,487,370,336
-eggtrans/7
-bounds:1124,434,370,336
-eggtrans/8
-bounds:1498,413,370,336
-eggtrans/9
-bounds:1872,393,370,336
-green_Left_hand
-bounds:3368,1044,215,400
-green_Tongue
-bounds:186,3493,56,102
-green_biyik1
-bounds:3597,3550,100,83
-green_biyik2
-bounds:2,3512,123,83
-green_chin
-bounds:1062,2867,228,207
-green_closed
-bounds:3368,633,314,407
-green_eye
-bounds:634,3470,194,125
-green_head
-bounds:2246,270,337,438
-green_neck
-bounds:3399,1843,190,389
-green_right_hand
-bounds:2788,2379,174,357
-greenhole
-bounds:1294,2818,184,236
-red shadow
-bounds:2268,2773,285,281
-red trans
-bounds:3368,1448,311,391
-red_Tongue
-bounds:246,3482,65,113
-red_body
-bounds:790,2,300,481
-red_chic
-bounds:1679,2811,284,243
-red_closed
-bounds:3368,188,305,441
-red_eye
-bounds:832,3440,202,133
-red_head
-bounds:2587,123,307,457
-red_left_hand
-bounds:3511,2236,166,384
-red_neck
-bounds:3125,2678,170,349
-red_right_hand
-bounds:750,2551,164,350
-redhole
-bounds:1482,2814,193,240
-shine button/1
-bounds:2,3637,170,34
-shine button/10
-bounds:176,3637,170,34
-shine button/11
-bounds:350,3637,170,34
-shine button/12
-bounds:524,3637,170,34
-shine button/13
-bounds:698,3637,170,34
-shine button/14
-bounds:872,3637,170,34
-shine button/15
-bounds:1046,3637,170,34
-shine button/16
-bounds:1220,3637,170,34
-shine button/17
-bounds:1394,3637,170,34
-shine button/18
-bounds:1568,3637,170,34
-shine button/19
-bounds:1742,3637,170,34
-shine button/2
-bounds:1916,3637,170,34
-shine button/20
-bounds:2090,3637,170,34
-shine button/21
-bounds:2264,3637,170,34
-shine button/22
-bounds:2438,3637,170,34
-shine button/23
-bounds:2612,3637,170,34
-shine button/24
-bounds:2786,3637,170,34
-shine button/25
-bounds:2960,3637,170,34
-shine button/26
-bounds:3134,3637,170,34
-shine button/3
-bounds:3308,3637,170,34
-shine button/4
-bounds:3482,3637,170,34
-shine button/5
-bounds:2,3599,170,34
-shine button/6
-bounds:176,3599,170,34
-shine button/7
-bounds:350,3599,170,34
-shine button/8
-bounds:524,3599,170,34
-shine button/9
-bounds:698,3599,170,34
-smoke/00001
-bounds:872,3577,105,56
-smoke/00002
-bounds:981,3577,105,56
-smoke/00003
-bounds:1090,3577,105,56
-smoke/00004
-bounds:1199,3577,105,56
-smoke/00005
-bounds:1308,3577,105,56
-smoke/00006
-bounds:1417,3577,105,56
-smoke/00007
-bounds:1526,3577,105,56
-smoke/00008
-bounds:1635,3577,105,56
-smoke/00009
-bounds:1744,3577,105,56
-smoke/00010
-bounds:1853,3577,105,56
-smoke/00011
-bounds:1962,3577,105,56
-smoke/00012
-bounds:2071,3577,105,56
-smoke/00013
-bounds:2180,3577,105,56
-smoke/00014
-bounds:2289,3577,105,56
-smoke/00015
-bounds:2398,3577,105,56
-smoke/00016
-bounds:2507,3577,105,56
-smoke/00017
-bounds:2616,3577,105,56
-smoke/00018
-bounds:2725,3577,105,56
-smoke/00019
-bounds:2834,3577,105,56
-smoke/00020
-bounds:2943,3577,105,56
-smoke/00021
-bounds:3052,3577,105,56
-smoke/00022
-bounds:3161,3577,105,56
-smoke/00023
-bounds:3270,3577,105,56
-smoke/00024
-bounds:3379,3577,105,56
-smoke/00025
-bounds:3488,3577,105,56
-spark1
-bounds:511,3476,119,119
-tas_shadow
-bounds:1038,3424,462,149
-
-background_2.png
-size:3032,584
-filter:Linear,Linear
+bounds:3266,244,261,169
 green trans
-bounds:743,50,528,529
+bounds:2,193,528,529
+green_Left_hand
+bounds:3372,2254,215,400
+green_Tongue
+bounds:468,87,56,102
+green_biyik1
+bounds:2293,609,100,83
+green_biyik2
+bounds:2166,609,123,83
 green_body
-bounds:2723,96,305,483
+bounds:2754,1667,305,483
+green_chin
+bounds:1930,774,228,207
+green_closed
+bounds:896,4,314,407
+green_eye
+bounds:3142,1155,194,125
+green_head
+bounds:1981,1232,337,438
+green_neck
+bounds:2946,1274,190,389
+green_right_hand
+bounds:1410,555,174,357
+greenhole
+bounds:1214,48,184,236
 lightning/1
-bounds:1275,2,358,577
+bounds:534,145,358,577
 lightning/2
-bounds:1637,2,358,577
+bounds:895,1444,358,577
 lightning/3
-bounds:1999,2,358,577
+bounds:1257,1499,358,577
 lightning/4
-bounds:2361,2,358,577
+bounds:1619,1499,358,577
+red shadow
+bounds:1633,908,285,281
+red trans
+bounds:2322,1215,311,391
+red_Tongue
+bounds:1900,1382,65,113
+red_body
+bounds:857,876,300,481
+red_chic
+bounds:1922,985,284,243
+red_closed
+bounds:2637,1165,305,441
+red_eye
+bounds:3372,2117,202,133
+red_head
+bounds:896,415,307,457
+red_left_hand
+bounds:3342,1282,166,384
+red_neck
+bounds:1588,555,170,349
+red_right_hand
+bounds:1762,554,164,350
+redhole
+bounds:1214,288,193,240
+shine button/1
+bounds:2,2,170,34
+shine button/10
+bounds:176,2,170,34
+shine button/11
+bounds:350,2,170,34
+shine button/12
+bounds:2754,1629,170,34
+shine button/13
+bounds:895,1406,170,34
+shine button/14
+bounds:1214,10,170,34
+shine button/15
+bounds:3368,1672,170,34
+shine button/16
+bounds:2206,52,170,34
+shine button/17
+bounds:895,1368,170,34
+shine button/18
+bounds:3001,598,170,34
+shine button/19
+bounds:3001,206,170,34
+shine button/2
+bounds:3001,168,170,34
+shine button/20
+bounds:3175,206,170,34
+shine button/21
+bounds:3001,130,170,34
+shine button/22
+bounds:3175,168,170,34
+shine button/23
+bounds:3349,206,170,34
+shine button/24
+bounds:3175,130,170,34
+shine button/25
+bounds:3349,168,170,34
+shine button/26
+bounds:3349,130,170,34
+shine button/3
+bounds:2471,79,170,34
+shine button/4
+bounds:2645,79,170,34
+shine button/5
+bounds:2819,79,170,34
+shine button/6
+bounds:3001,92,170,34
+shine button/7
+bounds:3175,92,170,34
+shine button/8
+bounds:3349,92,170,34
+shine button/9
+bounds:1932,14,170,34
+smoke/00001
+bounds:2631,2094,105,56
+smoke/00002
+bounds:2322,1614,105,56
+smoke/00003
+bounds:528,85,105,56
+smoke/00004
+bounds:637,85,105,56
+smoke/00005
+bounds:746,85,105,56
+smoke/00006
+bounds:524,25,105,56
+smoke/00007
+bounds:633,25,105,56
+smoke/00008
+bounds:742,25,105,56
+smoke/00009
+bounds:2993,32,105,56
+smoke/00010
+bounds:3102,32,105,56
+smoke/00011
+bounds:3211,32,105,56
+smoke/00012
+bounds:3320,32,105,56
+smoke/00013
+bounds:3429,32,105,56
+smoke/00014
+bounds:3491,703,105,56
+smoke/00015
+bounds:3491,643,105,56
+smoke/00016
+bounds:3512,1612,105,56
+smoke/00017
+bounds:3512,1552,105,56
+smoke/00018
+bounds:3512,1492,105,56
+smoke/00019
+bounds:3512,1432,105,56
+smoke/00020
+bounds:3512,1372,105,56
+smoke/00021
+bounds:3512,1312,105,56
+smoke/00022
+bounds:3523,184,105,56
+smoke/00023
+bounds:3523,124,105,56
+smoke/00024
+bounds:2380,19,105,56
+smoke/00025
+bounds:2489,19,105,56
 smokeee
-bounds:2,79,737,500
+bounds:2631,2154,737,500
+spark1
+bounds:1161,937,119,119
+tas_shadow
+bounds:2,40,462,149
