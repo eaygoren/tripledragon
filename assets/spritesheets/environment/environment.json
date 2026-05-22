@@ -170,22 +170,22 @@
     },
     "glow": {
       "frame": {
-        "x": 2,
-        "y": 1221,
-        "w": 346,
-        "h": 346
+        "x": 1845,
+        "y": 718,
+        "w": 173,
+        "h": 173
       },
       "rotated": false,
       "trimmed": false,
       "spriteSourceSize": {
         "x": 0,
         "y": 0,
-        "w": 346,
-        "h": 346
+        "w": 173,
+        "h": 173
       },
       "sourceSize": {
-        "w": 346,
-        "h": 346
+        "w": 173,
+        "h": 173
       },
       "pivot": {
         "x": 0.5,
@@ -193,6 +193,30 @@
       }
     },
     "coin_boost_icon": {
+      "frame": {
+        "x": 2,
+        "y": 1221,
+        "w": 233,
+        "h": 237
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 233,
+        "h": 237
+      },
+      "sourceSize": {
+        "w": 233,
+        "h": 237
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "jackpot_icon": {
       "frame": {
         "x": 2,
         "y": 794,
@@ -240,33 +264,9 @@
         "y": 0.5
       }
     },
-    "jackpot_icon": {
-      "frame": {
-        "x": 239,
-        "y": 794,
-        "w": 233,
-        "h": 237
-      },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": {
-        "x": 0,
-        "y": 0,
-        "w": 233,
-        "h": 237
-      },
-      "sourceSize": {
-        "w": 233,
-        "h": 237
-      },
-      "pivot": {
-        "x": 0.5,
-        "y": 0.5
-      }
-    },
     "reel_boost_icon": {
       "frame": {
-        "x": 476,
+        "x": 239,
         "y": 794,
         "w": 233,
         "h": 237
@@ -291,7 +291,7 @@
     "coin_boost_text": {
       "frame": {
         "x": 697,
-        "y": 1035,
+        "y": 794,
         "w": 692,
         "h": 146
       },
