@@ -1,45 +1,93 @@
 15.png
-size:956,1700
+size:3504,792
 filter:Linear,Linear
-15 sctratch
-bounds:478,209,468,405
-15_frame
-bounds:2,1114,602,584
-15_frame_inner
-bounds:2,649,472,461
-15_head
-bounds:608,1447,260,251
-Layer 2
-bounds:478,618,472,461
-Layer 3
-bounds:2,184,472,461
-grado_flam/00001
-bounds:731,1356,156,87
-grado_flam/00002
-bounds:731,1265,156,87
-grado_flam/00003
-bounds:608,1174,156,87
-grado_flam/00004
-bounds:768,1174,156,87
-grado_flam/00005
-bounds:608,1083,156,87
-grado_flam/00006
-bounds:768,1083,156,87
-grado_flam/00007
-bounds:478,118,156,87
-grado_flam/00008
-bounds:638,118,156,87
-grado_flam/00009
-bounds:798,118,156,87
-grado_flam/00010
-bounds:2,93,156,87
-grado_flam/00011
-bounds:162,93,156,87
-grado_flam/00012
-bounds:322,27,156,87
-grado_flam/00013
-bounds:2,2,156,87
-grado_flam/00014
-bounds:162,2,156,87
-spark1
-bounds:608,1324,119,119
+diş
+bounds:876,260,368,530
+glow
+bounds:2748,396,549,394
+hammertime/00000
+bounds:811,91,150,85
+hammertime/00001
+bounds:878,2,150,85
+hammertime/00002
+bounds:1248,262,150,85
+hammertime/00003
+bounds:1402,262,150,85
+hammertime/00004
+bounds:1556,262,150,85
+hammertime/00005
+bounds:1710,266,150,85
+hammertime/00006
+bounds:1864,266,150,85
+hammertime/00007
+bounds:2018,293,150,85
+hammertime/00008
+bounds:2172,296,150,85
+hammertime/00009
+bounds:2326,296,150,85
+hammertime/00010
+bounds:2480,296,150,85
+portal/Layer 10
+bounds:3301,286,186,321
+portal/Layer 11
+bounds:2634,66,183,322
+portal/Layer 12
+bounds:1693,355,199,435
+portal/Layer 13
+bounds:1647,3,400,255
+portal/Layer 14
+bounds:1193,19,450,237
+portal/Layer 15
+bounds:1896,382,195,408
+portal/Layer 2
+bounds:2927,90,309,302
+portal/Layer 4
+bounds:2485,392,259,398
+portal/Layer 5
+bounds:2821,85,102,307
+portal/Layer 6
+bounds:1032,5,157,251
+portal/Layer 7
+bounds:2051,14,282,275
+portal/Layer 8
+bounds:2337,24,271,268
+portal/Layer 9
+bounds:3301,611,198,179
+portal/base
+bounds:1248,351,441,439
+portal/base2
+bounds:2095,385,386,405
+stone_1
+bounds:876,191,65,65
+stone_10
+bounds:733,82,74,94
+stone_11
+bounds:188,13,200,163
+stone_12
+bounds:3171,18,131,68
+stone_13
+bounds:2914,13,141,68
+stone_14
+bounds:571,41,158,135
+stone_15
+bounds:2821,2,89,79
+stone_16
+bounds:733,8,141,70
+stone_2
+bounds:3433,219,68,63
+stone_3
+bounds:392,28,175,148
+stone_4
+bounds:965,139,31,50
+stone_5
+bounds:2,3,182,173
+stone_6
+bounds:965,193,63,63
+stone_7
+bounds:2612,7,70,55
+stone_8
+bounds:3059,3,108,83
+stone_9
+bounds:3306,197,123,85
+stone_shadow
+bounds:2,180,870,610
