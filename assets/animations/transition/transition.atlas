@@ -1,4 +1,4 @@
-transition.png
+transition.ktx2
 size:3520,3616
 filter:Linear,Linear
 fire001/fire001_00000
@@ -42,7 +42,7 @@ bounds:2818,2,700,900
 ice back
 bounds:2,3123,346,491
 
-transition_2.png
+transition_2.ktx2
 size:3520,3616
 filter:Linear,Linear
 fire001/fire001_00019
@@ -80,7 +80,7 @@ bounds:2818,2,700,900
 ice1
 bounds:2,2553,1180,1061
 
-transition_3.png
+transition_3.ktx2
 size:3520,3616
 filter:Linear,Linear
 fire001/fire001_00035
@@ -124,7 +124,7 @@ bounds:2818,906,700,900
 smoke001/smoke001_00014
 bounds:2818,2,700,900
 
-transition_4.png
+transition_4.ktx2
 size:3520,3616
 filter:Linear,Linear
 smoke001/smoke001_00015
@@ -168,7 +168,7 @@ bounds:2818,906,700,900
 smoke001/smoke001_00034
 bounds:2818,2,700,900
 
-transition_5.png
+transition_5.ktx2
 size:3520,904
 filter:Linear,Linear
 smoke001/smoke001_00035

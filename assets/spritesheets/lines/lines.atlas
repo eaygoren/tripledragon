@@ -1,4 +1,4 @@
-lines.png
+lines.ktx2
 size:2048,2048
 filter:Linear,Linear
 repeat:none
@@ -438,7 +438,7 @@ offsets:299,421,1200,1000
 bounds:1510,1003,537,394
 offsets:299,421,1200,1000
 
-lines2.png
+lines2.ktx2
 size:2048,2048
 filter:Linear,Linear
 repeat:none
@@ -1052,7 +1052,7 @@ offsets:285,446,1200,1000
 bounds:1425,1151,621,127
 offsets:285,446,1200,1000
 
-lines3.png
+lines3.ktx2
 size:2048,2048
 filter:Linear,Linear
 repeat:none
@@ -1963,7 +1963,7 @@ offsets:300,446,1200,1000
 bounds:1225,295,149,55
 offsets:300,446,1200,1000
 
-lines4.png
+lines4.ktx2
 size:2048,2048
 filter:Linear,Linear
 repeat:none
@@ -2916,7 +2916,7 @@ offsets:372,454,1200,1000
 bounds:1467,1,467,119
 offsets:372,454,1200,1000
 
-lines5.png
+lines5.ktx2
 size:2048,2048
 filter:Linear,Linear
 repeat:none

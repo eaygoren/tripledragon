@@ -556,7 +556,7 @@
   "meta": {
     "app": "https://ourcade.co",
     "version": "1.0.0",
-    "image": "font3.png",
+    "image": "font3.ktx2",
     "format": "RGBA8888",
     "size": {
       "w": 2048,

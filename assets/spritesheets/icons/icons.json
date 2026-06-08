@@ -916,7 +916,7 @@
   "meta": {
     "app": "https://ourcade.co",
     "version": "1.0.0",
-    "image": "icons.png",
+    "image": "icons.ktx2",
     "format": "RGBA8888",
     "size": {
       "w": 2048,

@@ -1,4 +1,4 @@
-winevent.png
+winevent.ktx2
 size:2972,2908
 filter:Linear,Linear
 Group 2
@@ -70,7 +70,7 @@ bounds:1566,1814,105,56
 yellow_body
 bounds:2,864,1451,1126
 
-winevent_2.png
+winevent_2.ktx2
 size:2980,2856
 filter:Linear,Linear
 Game_UI_Ipad/Game_UI_Ipad_00201
@@ -130,7 +130,7 @@ bounds:2558,269,412,489
 yellow_head
 bounds:2558,762,417,486
 
-winevent_3.png
+winevent_3.ktx2
 size:2652,2612
 filter:Linear,Linear
 Game_UI_Ipad/Game_UI_Ipad_00220
@@ -180,7 +180,7 @@ bounds:1919,2,635,431
 Insane
 bounds:2,2184,1370,424
 
-winevent_4.png
+winevent_4.ktx2
 size:2912,2632
 filter:Linear,Linear
 Elements
@@ -206,7 +206,7 @@ bounds:876,52,737,500
 top 50 parıltı
 bounds:1681,2061,1043,568
 
-winevent_5.png
+winevent_5.ktx2
 size:2556,1308
 filter:Linear,Linear
 Game_UI_Ipad/Game_UI_Ipad_00246
