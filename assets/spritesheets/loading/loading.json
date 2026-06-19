@@ -28,20 +28,20 @@
       "frame": {
         "x": 1282,
         "y": 2,
-        "w": 632,
-        "h": 297
+        "w": 759,
+        "h": 402
       },
       "rotated": false,
       "trimmed": false,
       "spriteSourceSize": {
         "x": 0,
         "y": 0,
-        "w": 632,
-        "h": 297
+        "w": 759,
+        "h": 402
       },
       "sourceSize": {
-        "w": 632,
-        "h": 297
+        "w": 759,
+        "h": 402
       },
       "pivot": {
         "x": 0.5,
